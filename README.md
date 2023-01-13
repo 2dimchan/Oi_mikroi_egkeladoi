@@ -21,9 +21,16 @@ To project
 Κόστος
 
 Microbit 3 X30 =90 Ευρώ
+
 Terminal Block Breakout for BBC micro:bit 2 Χ  13 = 26 Ευρώ
+
 Buzzer 2 Ευρώ
+
 LCD Shield Kit 25 Ευρώ.
+
 Ηλεκτρονόμος  4 θέσεων  6  Ευρώ
+
 Ηχείο 15 Ευρώ
+
 Συνολικό κόστος  164 Ευρώ
+
