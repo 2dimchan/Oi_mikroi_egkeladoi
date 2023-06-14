@@ -3,6 +3,7 @@ To project
 Αποθετήριο του 2ου Δημοτικού Σχολείου Χανίων για στην συμμετοχή στον Διαγωνισμό Ανοιχτών Τεχνολογιών 2023.
 
 WebSite :  https://openedtech.ellak.gr/robotics2023/mikri-egkeladi-2o-dimotiko-scholio-chanion/
+
 GitHub  : https://github.com/2dimchan/Oi_mikroi_egkeladoi
 
 Ιδέα
